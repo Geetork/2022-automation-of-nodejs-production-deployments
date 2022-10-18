@@ -1,4 +1,4 @@
-# Automatation of Node.js Production Deployments with Shipit on CentOS 8
+# Automatation of Node.js Production Deployments with Shipit on CentOS 7
 
 
 ## Prerequisites ##
